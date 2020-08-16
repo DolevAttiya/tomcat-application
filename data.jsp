@@ -1,5 +1,5 @@
-<%@ page contentType="text/html;charset=UTF-8" language="java" %>
-<%@ pageimport="java.time.LocalDateTime" %>
+<%@ page contentType="text/html;charset=UTF-8" language="python" %>
+<%@ pageimport="java" %>
 <!DOCTYPE html>
 <html>
 	<head>
