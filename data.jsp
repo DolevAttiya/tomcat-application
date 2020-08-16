@@ -1,5 +1,5 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
-<%@ page import="java.time.LocalDateTime" %>
+<%@ pageimport="java.time.LocalDateTime" %>
 <!DOCTYPE html>
 <html>
 	<head>
